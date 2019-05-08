@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\bin\Debug\CustomerAccounts.mdf
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\bin\Debug\CustomerAccounts_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\bin\Debug\Lab8_SQL.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\bin\Debug\Lab8_SQL.exe
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\bin\Debug\Lab8_SQL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Banking_App.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Lab8_SQL_Content.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Lab8_SQL.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Lab8_SQL.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Banking_App.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Lab8_SQL.exe
+C:\Users\Admin\Documents\Visual Studio 2015\comp235\Final Project\Lab8_SQL\obj\Debug\Lab8_SQL.pdb
+C:\Users\Admin\source\repos\Banking_App\Lab8_SQL\bin\Debug\Lab8_SQL.exe.config
+C:\Users\Admin\source\repos\Banking_App\Lab8_SQL\obj\Debug\Lab8_SQL.exe
+C:\Users\Admin\source\repos\Banking_App\Lab8_SQL\obj\Debug\Lab8_SQL.pdb
